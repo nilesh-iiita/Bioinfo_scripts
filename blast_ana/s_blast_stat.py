@@ -1,5 +1,7 @@
 #!/usr/bin/python
-import numpy as ny
+'''
+import it as s_blast_stat
+'''
 def summary(arr):
 	import numpy as ny
 	import matplotlib.pyplot as plt
